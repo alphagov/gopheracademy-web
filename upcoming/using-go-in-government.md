@@ -14,7 +14,7 @@ recently, we’ve turned to Go for some projects.
 This is a brief experience report. It’s about how we’ve used Go and
 what we feel would be useful to know for others considering it. If
 you’re more interested in reading a case study delving into the
-details of what we’ve done with Go we’ve posted on our blog about our
+details of what we’ve done with Go, we’ve posted on our blog about our
 [router](https://gdstechnology.blog.gov.uk/2013/12/05/building-a-new-router-for-gov-uk/),
 [crawler](https://gdstechnology.blog.gov.uk/2014/08/27/taking-another-look-at-gov-uks-disaster-recovery/),
 and
