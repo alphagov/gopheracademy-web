@@ -4,7 +4,7 @@ date = "2014-11-14T00:00:00-06:00"
 title = "Using Go in government"
 +++
 
-When [GDS](https://gds.blog.gov.uk/) started working on
+When the UK [Government Digital Service (GDS)](https://gds.blog.gov.uk/) started working on
 [GOV.UK](https://www.gov.uk/), much of it was
 [built in Ruby](https://gds.blog.gov.uk/govuk-launch-colophon/). Since
 then, we’ve used a number of different programming languages across
