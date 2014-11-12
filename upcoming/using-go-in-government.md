@@ -118,7 +118,7 @@ maintainers have
 [publicly endorsed vendoring](http://golang.org/doc/faq#get_version).
 We’re looking at using
 [gom and Godep as possible solutions](https://github.com/alphagov/styleguides/blob/master/go.md#external-dependencies)
-to this problem to be more developer friendly.
+to this problem to be more developer-friendly.
 
 It doesn’t look like our usage of Go is going to decrease any time
 soon. You can read more about our experiences of Go and other
